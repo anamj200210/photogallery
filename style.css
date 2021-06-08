@@ -1,0 +1,20 @@
+.container
+{
+    text-align: center;
+}
+
+#myCarousel{
+    background-color: coral;   
+margin-top: 30px
+}
+#myCarousel img{
+    margin-top: 30px;
+width: 300px;
+
+}
+#myCarousel p{
+    font-size: 30px;
+color: crimson;
+margin-top: 20px;
+margin-bottom: 20px;
+}
